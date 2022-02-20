@@ -1,0 +1,17 @@
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.exe
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.deps.json
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.runtimeconfig.json
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.runtimeconfig.dev.json
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.dll
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\DownloadWeb.pdb
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.csprojAssemblyReference.cache
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.AssemblyInfoInputs.cache
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.AssemblyInfo.cs
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.csproj.CoreCompileInputs.cache
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.dll
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.pdb
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.genruntimeconfig.cache
+D:\DownloadWeb\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.csproj.CopyComplete
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.WebResource.resources
+D:\DownloadWeb\obj\Debug\netcoreapp3.1\DownloadWeb.csproj.GenerateResource.cache
